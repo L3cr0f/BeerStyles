@@ -3,8 +3,8 @@ BeerStyles is an application which helps you to know the style of the beer which
 
 When you use the program you will see the following menu:
 
-![alt tag](https://github.com/ernsferrari/BeerStyles/blob/master/BeerStyles/images/MainMenu.png)
+![alt tag](https://github.com/L3cr0f/BeerStyles/blob/master/BeerStyles/images/MainMenu.png)
 
 Then if you click in "Aceptar", you will which beer style you are drinking!
 
-![alt tag](https://github.com/ernsferrari/BeerStyles/blob/master/BeerStyles/images/ResultPage.png)
+![alt tag](https://github.com/L3cr0f/BeerStyles/blob/master/BeerStyles/images/ResultPage.png)
